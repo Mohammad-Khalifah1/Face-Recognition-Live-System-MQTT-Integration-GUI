@@ -1,0 +1,29 @@
+# Environment
+.venv/
+.uv/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+
+# Data & gallery
+data/
+*.npz
+
+# Personal images
+images/majd/
+images/mohammad/
+
+# Test assets
+tests/
+
+# IDE & tools
+.vscode/
+.claude/
+
+# Docs & misc
+implementation.md
+cuda-keyring_1.1-1_all.deb
