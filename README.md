@@ -12,6 +12,11 @@ uv run face-id app --mqtt --mqtt-broker 192.168.1.100   # with MQTT
 
 First run downloads the `buffalo_s` model (~125 MB) to `~/.insightface/models/`.
 
+
+![system workflow](system.png)
+
+
+
 ## Features
 
 - **GUI application** — `face-id app` with Tkinter control panel + live OpenCV camera feed
